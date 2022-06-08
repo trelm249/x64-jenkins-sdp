@@ -1,6 +1,6 @@
 REPO     = trelm249
 IMAGE    = jenkins-sdp
-VERSION  = 20220608
+VERSION  = $$(date +%Y%m%d)
 #ALT_REG  = quay.io
 #REGISTRY = docker.io/library/$(REPO)
 #TAG      = $(REGISTRY)/$(IMAGE):$(VERSION)
