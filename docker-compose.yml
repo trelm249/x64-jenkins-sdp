@@ -1,7 +1,7 @@
 ---
 services:
   jenkins:
-    image: trelm249/jenkins-sdp:latest
+    image: {Your_Repo}/jenkins-sdp:latest
     privileged: true
     user: root
     ports:
