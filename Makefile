@@ -1,4 +1,4 @@
-REPO     = trelm249
+REPO     = {Your_Repo}
 IMAGE    = jenkins-sdp
 VERSION  = $$(date +%Y%m%d)
 #ALT_REG  = quay.io
